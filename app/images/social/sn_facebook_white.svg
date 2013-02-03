@@ -1,0 +1,20 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata8">image/svg+xml</metadata>
+ <defs>
+  <clipPath id="clipPath16">
+   <path id="path18" d="m-283.955078,1166.330078l612,0l0,-792.000061l-612,0l0,792.000061z"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="g10" transform="matrix(1.25 0 0 -1.25 0 990)">
+   <g id="g12">
+    <g id="g14" clip-path="url(#clipPath16)">
+     <g id="g20">
+      <path fill="#ffffff" fill-rule="nonzero" id="path22" d="m0.001007,749.330017l23.654999,0l0,15.812988l-5.181,0l0,7.063049l5.181,0l0,2.751953c0,4.745972 3.569,9.021973 7.949005,9.021973l5.712982,0l0,-7.065979l-5.712982,0c-0.625,0 -1.354004,-0.757019 -1.354004,-1.893982l0,-2.813965l7.065002,0l0,-7.063049l-7.065002,0l0,-15.812988l12.419006,0l0,42.669983l-42.670013,0l0,-42.669983l0.001007,0z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
